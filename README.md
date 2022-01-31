@@ -20,8 +20,8 @@ I'm a student pursuing Computer Engineering 🎓 from Vellore Institute of Techn
 <a href="https://www.leetcode.com/sahilsuman933" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sahilsuman933" height="30" width="40" /></a>
 
 </p>
----
 
+---
 ### Gtihub Statistics
 
 ![Sahil's GitHub stats](https://github-readme-stats.vercel.app/api?username=sahilsuman933&theme=gotham&show_icons=true)

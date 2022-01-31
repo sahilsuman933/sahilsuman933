@@ -4,8 +4,6 @@
 
 I'm a student pursuing Computer Engineering 🎓 from Vellore Institute of Technology (VIT) 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and use them to solve real-life problems ✨.
 
-<br />
-
 ## 🙋🏽‍♂️About Me
 
 - 🔭 I’m currently exploring me
@@ -15,10 +13,7 @@ I'm a student pursuing Computer Engineering 🎓 from Vellore Institute of Techn
 - ⚡ Fun fact: I love to play Chess
 
 ### Find me around the web 🌎
-
-<br />
-
-<p align="left">
+<p align="center">
 <a href="https://twitter.com/sahilsuman880" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sahilsuman880" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sahilsuman933" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sahilsuman933" height="30" width="40" /></a>
 <a href="https://instagram.com/sahil._.x0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sahil._.x0" height="30" width="40" /></a>

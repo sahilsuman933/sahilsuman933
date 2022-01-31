@@ -27,4 +27,4 @@ I'm a student pursuing Computer Engineering 🎓 from Vellore Institute of Techn
 ![Sahil's GitHub stats](https://github-readme-stats.vercel.app/api?username=sahilsuman933&theme=gotham&show_icons=true)
 
 <br />
-![](https://github.com/sahilsuman933/sahilsuman933/blob/d96f35bbe48104005190ee7103e7a7ee0d90cc7d/PESQn8A.png)
+![Footer](https://github.com/sahilsuman933/sahilsuman933/blob/d96f35bbe48104005190ee7103e7a7ee0d90cc7d/PESQn8A)

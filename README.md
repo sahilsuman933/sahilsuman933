@@ -14,9 +14,11 @@ I'm a student pursuing Computer Engineering 🎓 from Vellore Institute of Techn
 
 ### Find me around the web 🌎
 
-<a href="https://twitter.com/sahilsuman880" target="_blank">[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]</a>
-<a href="https://www.linkedin.com/in/sahilsuman/" target="_blank">[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]</a>
-<a href="https://www.instagram.com/sahil._.x0/" target="_blank">[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]</a>
+[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][https://twitter.com/sahilsuman880]
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://www.linkedin.com/in/sahilsuman/]
+[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][https://www.instagram.com/sahil._.x0/]
+<a href="https://discord.gg/_Kirito_#7800" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="_Kirito_#7800" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/sahilsuman933" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sahilsuman933" height="30" width="40" /></a>
 
 ### Gtihub Statistics
 

@@ -14,13 +14,13 @@ I'm a student pursuing Computer Engineering 🎓 from Vellore Institute of Techn
 
 ### Find me around the web 🌎
 
-[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter](https://twitter.com/sahilsuman880)
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin](https://www.linkedin.com/in/sahilsuman/)
-[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram](https://www.instagram.com/sahil._.x0/)
+<a href="https://twitter.com/sahilsuman880" target="_blank">[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]</a>
+<a href="https://www.linkedin.com/in/sahilsuman/" target="_blank">[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]</a>
+<a href="https://www.instagram.com/sahil._.x0/" target="_blank">[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]</a>
 
 ### Gtihub Statistics
 
 ![Sahil's GitHub stats](https://github-readme-stats.vercel.app/api?username=sahilsuman933&theme=gotham&show_icons=true)
 
 <br />
-![](https://i.imgur.com/PESQn8A.png)
+![](https://github.com/sahilsuman933/sahilsuman933/blob/d96f35bbe48104005190ee7103e7a7ee0d90cc7d/PESQn8A.png)

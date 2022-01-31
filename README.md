@@ -12,7 +12,7 @@ I'm a student pursuing Computer Engineering 🎓 from Vellore Institute of Techn
 - 💬 Ask me about Java, Nodejs, React
 - ⚡ Fun fact: I love to play Chess
 
-## Find me around the web 🌎
+## Find me around the Web 🌎
 <p align="center">
 <a href="https://twitter.com/sahilsuman880" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sahilsuman880" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sahilsuman933" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sahilsuman933" height="30" width="40" /></a>

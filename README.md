@@ -1,4 +1,4 @@
-![Sahil Suman](https://pbs.twimg.com/profile_banners/1363801851326386178/1628065570/1500x500)
+![Sahil Suman](https://github.com/sahilsuman933/sahilsuman933/blob/d96f35bbe48104005190ee7103e7a7ee0d90cc7d/PESQn8A.png)
 
 ### 𝐇i 👋 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! I am Sahil Suman
 

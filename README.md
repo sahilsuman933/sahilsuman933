@@ -4,7 +4,7 @@
 
 I'm a student pursuing Computer Engineering 🎓 from Vellore Institute of Technology (VIT) 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and use them to solve real-life problems ✨.
 
-## 🙋🏽‍♂️About Me
+## 🙋🏽‍♂️About Me <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=sahilsuman933" />
 
 - 🔭 I’m currently exploring me
 - 🌱 I’m currently learning Java

@@ -18,7 +18,7 @@ I'm a student pursuing Computer Engineering 🎓 from Vellore Institute of Techn
 <a href="https://linkedin.com/in/sahilsuman933" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sahilsuman933" height="30" width="40" /></a>
 <a href="https://instagram.com/sahil._.x0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sahil._.x0" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sahilsuman933" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sahilsuman933" height="30" width="40" /></a>
-<a href="https://discord.gg/_Kirito_#7800" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="_Kirito_#7800" height="30" width="40" /></a>
+
 </p>
 
 ### Gtihub Statistics

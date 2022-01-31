@@ -24,11 +24,9 @@ I'm a student pursuing Computer Engineering 🎓 from Vellore Institute of Techn
 
 ### Gtihub Statistics
 ---
-<pre>
 ![Sahil's GitHub stats](https://github-readme-stats.vercel.app/api?username=sahilsuman933&theme=gotham&show_icons=true)
 
-
+&nbsp;&nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sahilsuman933&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-</pre>
 <br />
 

@@ -5,14 +5,13 @@
 I'm a student pursuing Computer Engineering 🎓 from Vellore Institute of Technology (VIT) 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and use them to solve real-life problems ✨.
 
 ## 🙋🏽‍♂️About Me <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=sahilsuman933" />
-
+    
 - 🔭 I’m currently exploring me
 - 🌱 I’m currently learning Java
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - 💬 Ask me about Java, Nodejs, React
 - ⚡ Fun fact: I love to play Chess
 
-    <img src="https://camo.githubusercontent.com/e8d3f746914f4444672f964f641ae54bb9e0b87dffcec4b8f681317771e36f04/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f3370545a357055594c554868362f67697068792e6769663f6369643d6563663035653437717a74647472356a357a6d7535363172397776386f6a77636564356979313473346770696e716a39267269643d67697068792e6769662663743d73" alt="Sup!?" />
     
 ## Find me around the Web 🌎
 <p align="center">

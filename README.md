@@ -7,7 +7,7 @@ I'm a student pursuing Computer Engineering 🎓 from Vellore Institute of Techn
 ## 🙋🏽‍♂️About Me <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=sahilsuman933" />
     
 - 🔭 I’m currently exploring what CSE course has to Offer. 
-- 🌱 I’m currently learning Go
+- 🌱 I’m currently learning more about Linux/GNU
 - 🥅 2023 Goals: Work on Personal Projects
 - 💬 Ask me about Java, Nodejs, React
 - ⚡ Fun fact: I love to play Chess

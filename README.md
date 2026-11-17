@@ -8,7 +8,7 @@ I'm a student pursuing Computer Engineering 🎓 from Vellore Institute of Techn
     
 - 🔭 I’m currently exploring what CSE course has to Offer. 
 - 🌱 I’m currently learning more about Linux/GNU
-- 🥅 2023 Goals: Work on Personal Projects
+- 🥅 2026 Goals: Work on Personal Projects
 - 💬 Ask me about Java, Nodejs, React
 - ⚡ Fun fact: I love to play Chess
 
